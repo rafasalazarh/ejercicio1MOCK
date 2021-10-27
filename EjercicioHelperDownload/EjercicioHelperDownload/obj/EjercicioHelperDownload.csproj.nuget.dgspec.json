@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/ejercicio1MOCK/EjercicioHelperDownload/EjercicioHelperDownload/EjercicioHelperDownload.csproj": {}
+    "C:\\Users\\DFacturePaises\\Desktop\\Curso Pruebas Unitarias\\ejercicio1MOCK\\EjercicioHelperDownload\\EjercicioHelperDownload\\EjercicioHelperDownload.csproj": {}
   },
   "projects": {
-    "/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/ejercicio1MOCK/EjercicioHelperDownload/EjercicioHelperDownload/EjercicioHelperDownload.csproj": {
+    "C:\\Users\\DFacturePaises\\Desktop\\Curso Pruebas Unitarias\\ejercicio1MOCK\\EjercicioHelperDownload\\EjercicioHelperDownload\\EjercicioHelperDownload.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/ejercicio1MOCK/EjercicioHelperDownload/EjercicioHelperDownload/EjercicioHelperDownload.csproj",
+        "projectUniqueName": "C:\\Users\\DFacturePaises\\Desktop\\Curso Pruebas Unitarias\\ejercicio1MOCK\\EjercicioHelperDownload\\EjercicioHelperDownload\\EjercicioHelperDownload.csproj",
         "projectName": "EjercicioHelperDownload",
-        "projectPath": "/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/ejercicio1MOCK/EjercicioHelperDownload/EjercicioHelperDownload/EjercicioHelperDownload.csproj",
-        "packagesPath": "/Users/cjcs1/.nuget/packages/",
-        "outputPath": "/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/ejercicio1MOCK/EjercicioHelperDownload/EjercicioHelperDownload/obj/",
+        "projectPath": "C:\\Users\\DFacturePaises\\Desktop\\Curso Pruebas Unitarias\\ejercicio1MOCK\\EjercicioHelperDownload\\EjercicioHelperDownload\\EjercicioHelperDownload.csproj",
+        "packagesPath": "C:\\Users\\DFacturePaises\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DFacturePaises\\Desktop\\Curso Pruebas Unitarias\\ejercicio1MOCK\\EjercicioHelperDownload\\EjercicioHelperDownload\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/cjcs1/.config/NuGet/NuGet.Config"
+          "C:\\Users\\DFacturePaises\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.thefactoryhka.com/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,12 @@
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\ejercicio1MOCK\EjercicioHelperDownload\EjercicioHelperDownload\bin\Debug\net5.0\EjercicioHelperDownload.deps.json
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\ejercicio1MOCK\EjercicioHelperDownload\EjercicioHelperDownload\bin\Debug\net5.0\EjercicioHelperDownload.dll
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\ejercicio1MOCK\EjercicioHelperDownload\EjercicioHelperDownload\bin\Debug\net5.0\ref\EjercicioHelperDownload.dll
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\ejercicio1MOCK\EjercicioHelperDownload\EjercicioHelperDownload\bin\Debug\net5.0\EjercicioHelperDownload.pdb
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\ejercicio1MOCK\EjercicioHelperDownload\EjercicioHelperDownload\obj\Debug\net5.0\EjercicioHelperDownload.csproj.AssemblyReference.cache
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\ejercicio1MOCK\EjercicioHelperDownload\EjercicioHelperDownload\obj\Debug\net5.0\EjercicioHelperDownload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\ejercicio1MOCK\EjercicioHelperDownload\EjercicioHelperDownload\obj\Debug\net5.0\EjercicioHelperDownload.AssemblyInfoInputs.cache
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\ejercicio1MOCK\EjercicioHelperDownload\EjercicioHelperDownload\obj\Debug\net5.0\EjercicioHelperDownload.AssemblyInfo.cs
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\ejercicio1MOCK\EjercicioHelperDownload\EjercicioHelperDownload\obj\Debug\net5.0\EjercicioHelperDownload.csproj.CoreCompileInputs.cache
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\ejercicio1MOCK\EjercicioHelperDownload\EjercicioHelperDownload\obj\Debug\net5.0\EjercicioHelperDownload.dll
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\ejercicio1MOCK\EjercicioHelperDownload\EjercicioHelperDownload\obj\Debug\net5.0\ref\EjercicioHelperDownload.dll
+C:\Users\DFacturePaises\Desktop\Curso Pruebas Unitarias\ejercicio1MOCK\EjercicioHelperDownload\EjercicioHelperDownload\obj\Debug\net5.0\EjercicioHelperDownload.pdb
