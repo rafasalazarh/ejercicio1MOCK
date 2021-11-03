@@ -1,22 +1,23 @@
 ﻿using System;
+using System.Net;
 
 namespace EjercicioHelperDownload
 {
     public class InstallerHelper
     {
-        private IMyWebClient _myWebClient;
+        private readonly IFileDownloader _fileDownloader;
         private string _setupDestinationFile;
 
-        public InstallerHelper(IMyWebClient myWebClient = null)
+        public InstallerHelper(IFileDownloader fileDownloader)
         {
-            _myWebClient = myWebClient ?? new MyWebClient();
+            _fileDownloader = fileDownloader;
         }
 
         public bool DownloadInstaller(string customerName, string installerName)
         {
             try
             {
-                _myWebClient.DownloadFile(
+                _fileDownloader.DownloadFile(
                     string.Format("http://example.com/{0}/{1}",
                         customerName,
                         installerName),
@@ -24,7 +25,7 @@ namespace EjercicioHelperDownload
 
                 return true;
             }
-            catch (Exception)
+            catch (WebException)
             {
                 return false;
             }
