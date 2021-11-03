@@ -18,13 +18,25 @@ namespace EjercicioHelperDownload.Test
         }
 
         [Test]
-        public void FileDownloader_EmptyPath_ReturnTrue()
+        public void FileDownloader_Exception_ReturnFalse()
         {
-            _fileDownloader.Setup(fr => fr.DownloadFile("", null));
+            _fileDownloader.SetupSequence(fr => fr.DownloadFile(It.IsAny<string>(), It.IsAny<string>())).Throws<WebException>();
 
             _installerHelper = new InstallerHelper(_fileDownloader.Object);
 
-            var result = _installerHelper.DownloadInstaller(null, null);
+            var result = _installerHelper.DownloadInstaller("test", "test");
+
+            Assert.AreEqual(result, false);
+        }
+
+        [Test]
+        public void FileDownloader_ReturnTrue()
+        {
+            _fileDownloader.Setup(fr => fr.DownloadFile("url", "path"));
+
+            _installerHelper = new InstallerHelper(_fileDownloader.Object);
+
+            var result = _installerHelper.DownloadInstaller("test", "test");
 
             Assert.AreEqual(result, true);
         }
